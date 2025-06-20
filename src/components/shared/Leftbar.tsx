@@ -109,7 +109,7 @@ const Leftbar = () => {
     <div className="w-64 bg-white h-screen border-r border-gray-200 flex flex-col">
       {/* Logo */}
       <div className="flex items-center gap-3 p-4 border-b border-gray-200">
-        <img src="/assets/Logo.png" alt="" width={70} height={70} /><h1 className="text-3xl font-bold text-gray-800">Tripstep</h1>
+        <img src="/assets/Logo.PNG" alt="" width={70} height={70} /><h1 className="text-3xl font-bold text-gray-800">Tripstep</h1>
       </div>
 
       {/* Navigation Links */}
